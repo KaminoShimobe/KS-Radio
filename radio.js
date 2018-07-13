@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const botSettings = require("./botsettings.json");
+
 const Music = require('discord.js-musicbot-addon');
 // const music = require('discord.js-music-v11');
 
