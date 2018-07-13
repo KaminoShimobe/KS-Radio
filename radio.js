@@ -4,7 +4,7 @@ const botSettings = require("./botsettings.json");
 const Music = require('discord.js-musicbot-addon');
 // const music = require('discord.js-music-v11');
 
-// const token = 'AIzaSyD1VaeXM47Ya_LQrcliw3q7S0FNBwRBpy0'
+
 const bot = new Discord.Client({disableEveryone: true})
 
 // music(bot);
