@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 
 const Music = require('discord.js-musicbot-addon');
 // const music = require('discord.js-music-v11');
-
+const botSettings = require("./botsettings.json"); 
 
 const bot = new Discord.Client({disableEveryone: true})
 
