@@ -107,4 +107,4 @@ bot.on("ready", async () => {
 
 
 
-bot.login(process.env.musicBotToken);
+bot.login(process.env.TOKEN);
