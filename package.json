@@ -4,7 +4,7 @@
   "description": "Kamino's Discord Bot",
   "main": "radio.js",
   "scripts": {
-    "start": "node radio.js"
+    "start": "node bot.js"
   },
   "author": "KaminoShimobe",
   "license": "ISC",
