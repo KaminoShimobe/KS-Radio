@@ -2,9 +2,9 @@
   "name": "vcb",
   "version": "0.0.1",
   "description": "Kamino's Discord Bot",
-  "main": "bot.js",
+  "main": "radio.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node radio.js"
   },
   "author": "KaminoShimobe",
   "license": "ISC",
