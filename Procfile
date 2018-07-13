@@ -1,1 +1,1 @@
-worker: node radio.js
+worker: node bot.js
