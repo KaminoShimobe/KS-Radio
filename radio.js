@@ -107,4 +107,4 @@ bot.on("ready", async () => {
 
 
 
-bot.login(botSettings.token);
+bot.login(musicBotToken);
