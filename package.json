@@ -2,7 +2,7 @@
   "name": "vcb",
   "version": "0.0.1",
   "description": "Kamino's Discord Bot",
-  "main": "radio.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
