@@ -23,7 +23,7 @@ const bot = new Discord.Client({disableEveryone: true})
 // }
 
 Music.start(bot, {
-  youtubeKey: youtubeAPI
+  youtubeKey: 'AIzaSyD1VaeXM47Ya_LQrcliw3q7S0FNBwRBpy0'
   
   
   // botOwner: '242118931769196544',
