@@ -6,11 +6,9 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "buildpacks": [
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    }
-  ],
+  "buildpacks": {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
   "author": "KaminoShimobe",
   "license": "ISC",
   "dependencies": {
